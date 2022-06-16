@@ -106,5 +106,8 @@ dist
 #history
 .history
 
+#vscode
+.vscode
+
 # Secrets.js (API KEY)
 src/secrets.js
